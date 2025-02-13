@@ -7,6 +7,8 @@ Proje fotoğrafları, **Proje Ekran Alıntıları** klasöründe bulunmaktadır.
 
 ![Proje Görseli](https://github.com/MortySmith00/Plaka-Tanima-Sistemi/blob/main/Proje%20Ekran%20Alıntıları/img3.png)
 
+![Proje Görseli2](https://github.com/MortySmith00/Plaka-Tanima-Sistemi/blob/main/Proje%20Ekran%20Alıntıları/img4.PNG)
+
 ## **Özellikler**
 
 1. **Plaka Tanıma**
